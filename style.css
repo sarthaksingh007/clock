@@ -83,6 +83,17 @@ body.dark {
   transform-origin: bottom;
   background: var(--red-color);
 }
+.putTime{
+    font-size: x-large;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 22px;
+    font-weight: 400;
+    display: inline-block;
+    color: var(--white-color);
+    background: var(--black-color);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
 .hand.minute {
   height: 120px;
   width: 5px;
